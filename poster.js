@@ -104,6 +104,6 @@ AFRAME.registerComponent("poster", {
   
       entityEl.setAttribute("position", { x: 0, y: 5, z: 0.1 });
       entityEl.setAttribute("material", { src: item.url });
-  
+    }
   });
   
